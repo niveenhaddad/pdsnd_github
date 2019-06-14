@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+ ýJune ý15, ý2019,.
 
 ### Project Title
-Replace the Project Title
+pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+explore some US bikeshare data!
 
 ### Files used
-Include the files used
+bikeshare_2.py
+README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.tutorialspoint.com/python/list_len.htm
+Stack Overflow
+https://pandas.pydata.org/
+udacity.com
+
 
