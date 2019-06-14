@@ -200,7 +200,7 @@ def user_stats(df):
     if 'Gender' in df.columns:
         print('the number of user based on thier gender is: \n',df.groupby(['Gender'])['Gender'].count(),'\n')
     
-    # Display earliest, most recent, and most common year of birth
+    # Display earliest, most recent, and most common year of birth for Chicago City only
     if 'Birth Year' in df.columns:
         earliest_year = int(df['Birth Year'].min())
         recent_year = int(df['Birth Year'].max())
