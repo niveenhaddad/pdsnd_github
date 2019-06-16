@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 ### Date created
- ýJune ý15, ý2019,.
+ ï¿½June ï¿½15, ï¿½2019,.
 
 ### Project Title
 pdsnd_github
@@ -13,9 +14,9 @@ bikeshare_2.py
 README.md
 
 ### Credits
+<<<<<<< HEAD
 https://www.tutorialspoint.com/python/list_len.htm
 Stack Overflow
 https://pandas.pydata.org/
 udacity.com
-
-
+https://realpython.com/python-f-strings/
